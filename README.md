@@ -1,6 +1,6 @@
 # PID-Box
 
-## Planning
+## Project Overview
 |Week|Date| Planned Milestones|Progress|
 |----| -- | ----------------- |--------|
 |1||Design mount for the motor, and the wheel||
