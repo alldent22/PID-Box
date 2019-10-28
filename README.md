@@ -13,8 +13,9 @@ The goal of the PID box project is to control the speed of a motor using a photi
 |<a href="https://github.com/adent11/PID-Box/blob/master/README.md#week-7">7</a>||PID code||
 |<a href="https://github.com/adent11/PID-Box/blob/master/README.md#week-8">8</a>||Non-PID code||
 |<a href="https://github.com/adent11/PID-Box/blob/master/README.md#week-9">9</a>||Wrap up loose ends||
-|||Delay compensation||
-|||Delay compensation||
+|10||Delay compensation||
+|11||Delay compensation||
+|12||Delay compensation||
 ## Week 1
 ## Week 2
 ## Week 3
