@@ -1,5 +1,6 @@
 # PID-Box
-
+## PID-Box Project <!--Temporary Title-->
+The goal of the PID box project is to control the speed of a motor using a photinterrupter and PID.
 ## Overview
 |Week|Date| Planned Milestones|Actual Progress|
 |----| -- | ----------------- |--------|
