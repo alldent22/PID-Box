@@ -1,7 +1,7 @@
 # PID-Box
 
 ## Overview
-|Week|Date| Planned Milestones|Progress|
+|Week|Date| Planned Milestones|Actual Progress|
 |----| -- | ----------------- |--------|
 |<a href="https://github.com/adent11/PID-Box/blob/master/README.md#week-1">1</a>||Design mount for the motor, and the wheel||
 |<a href="https://github.com/adent11/PID-Box/blob/master/README.md#week-2">2</a>||Design one wall assembly of motor, wheel, and <br/>photointerrupter||
