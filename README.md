@@ -3,7 +3,7 @@
 ## Overview
 |Week|Date| Planned Milestones|Progress|
 |----| -- | ----------------- |--------|
-|<a href="LED_Blink_Revisited/LED_Blink_Revisited.ino">1</a> <br/>||Design mount for the motor, and the wheel||
+|<a href="https://github.com/adent11/PID-Box/blob/master/README.md#week-1">1</a> <br/>||Design mount for the motor, and the wheel||
 |2||Design one wall assembly of motor, wheel, and <br/>photointerrupter||
 |3||Finish designing the box, add in LCD, LED indicators,<br/> switches, battery pack, and potentiometer||
 |4||Wire everything and get test code working||
