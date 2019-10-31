@@ -19,8 +19,8 @@ The goal of the PID box project is to control the speed of a motor using a photi
 ## Week 1
 * Designed mount for motor
 * Designed wheel
-<IMG SRC="Images/MotorMount1.PNG"  width="252" height="200">
-
+<IMG SRC="Images/MotorMount1.PNG" width="252" height="200">
+<Motor >
 
 ## Week 2
 ## Week 3
