@@ -19,14 +19,14 @@ The goal of the PID box project is to control the speed of a motor using a photi
 ## Week 1
 * Designed mount for motor
 * Designed wheel <br/>
-<IMG SRC="Images/MotorMount1.PNG" width="273" height="200"> <IMG SRC="Images/InterruptWheel1.PNG" width="252" height="200"><IMG SRC="Images/MotorAssem1.PNG" width="231" height="200">
+<IMG SRC="Media/MotorMount1.PNG" width="273" height="200"> <IMG SRC="Media/InterruptWheel1.PNG" width="252" height="200"><IMG SRC="Media/MotorAssem1.PNG" width="231" height="200">
 <br/>
 On schedule
 
 ## Week 2
 * Made sub-assembly of the motor, wheel, and photointerrupter
 <br/>
-<IMG SRC="Images/PhotointerrupterMotorSubassem11-6.PNG" width="273" height="200">
+<IMG SRC="Media/PhotointerrupterMotorSubassem11-6.PNG" width="273" height="200">
 
 ## Week 3
 ## Week 4
