@@ -25,8 +25,9 @@ On schedule
 
 ## Week 2
 * Made sub-assembly of the motor, wheel, and photointerrupter
+* Added a row of LEDs that will show the speed
 <br/>
-<IMG SRC="Media/PhotointerrupterMotorSubassem11-6.PNG" width="273" height="200">
+<IMG SRC="Media/PhotointerrupterMotorSubassem11-6.PNG" width="273" height="200"><IMG SRC="Media/PIDBoxAssem11-8.PNG.PNG" width="335" height="200">
 
 ## Week 3
 ## Week 4
