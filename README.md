@@ -28,7 +28,9 @@ On schedule
 
 <br/>
 <IMG SRC="Media/PhotointerrupterMotorSubassem11-6.PNG" width="273" height="200">
+
 * Added a row of LEDs that will show the speed
+
 <IMG SRC="Media/PIDBoxAssem11-8.PNG" width="335" height="200">
 
 ## Week 3
