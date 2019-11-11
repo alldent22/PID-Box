@@ -6,7 +6,7 @@ The goal of the PID box project is to control the speed of a motor using a photi
 |----| -- | ----------------- |--------|
 |<a href="https://github.com/adent11/PID-Box/blob/master/README.md#week-1">1</a>|10/28/19|Design mount for the motor, and the wheel|Designed mount for the motor, the wheel, and a simple t-slot wall|
 |<a href="https://github.com/adent11/PID-Box/blob/master/README.md#week-2">2</a>|11/6/19|Design one wall assembly of motor, wheel, and <br/>photointerrupter|Made assembly with the motor, photointerrupter, LCD, some indicator LEDs, and the potentiometer|
-|<a href="https://github.com/adent11/PID-Box/blob/master/README.md#week-3">3</a>||Finish designing the box, add in LCD, LED indicators,<br/> switches, battery pack, and potentiometer||
+|<a href="https://github.com/adent11/PID-Box/blob/master/README.md#week-3">3</a>|11/11/19|Finish designing the box, add in LCD, LED indicators,<br/> switches, battery pack, and potentiometer||
 |<a href="https://github.com/adent11/PID-Box/blob/master/README.md#week-4">4</a>||Assemble box||
 |<a href="https://github.com/adent11/PID-Box/blob/master/README.md#week-5">5</a>||Wire everything and get test code working||
 |<a href="https://github.com/adent11/PID-Box/blob/master/README.md#week-6">6</a>||RPM code||
