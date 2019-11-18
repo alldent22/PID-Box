@@ -35,8 +35,12 @@ On schedule
 <br/> On schedule
   
 ## Week 3
+* Added in the rest of the components
+* 3d printed the motor mount
+* Made drawing of all PID box walls
 <IMG SRC="Media/PIDGif.gif" width="400" height="400">
 <br/> On schedule
+
 ## Week 4
 ## Week 5
 ## Week 6
