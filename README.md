@@ -32,8 +32,11 @@ On schedule
 * Added a row of LEDs that will show the speed
 
 <IMG SRC="Media/PIDBoxAssem11-8.PNG" width="335" height="200">
-
+<br/> On schedule
+  
 ## Week 3
+<IMG SRC="Media/PIDGif.gif" width="200" height="200">
+<br/> On schedule
 ## Week 4
 ## Week 5
 ## Week 6
