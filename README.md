@@ -35,7 +35,7 @@ On schedule
 <br/> On schedule
   
 ## Week 3
-<IMG SRC="Media/PIDGif.gif" width="200" height="200">
+<IMG SRC="Media/PIDGif.gif" width="400" height="400">
 <br/> On schedule
 ## Week 4
 ## Week 5
